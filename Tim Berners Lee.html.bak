@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE-edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>HTML</title>
+	</head>
+	<body>
+		<h1><center>Anales de la Ciencia</center></h1><br/>
+		<a href="file:///D:/Mike%20Uni/3%20Curso/TDW/Ejercicio%20HTML/index.html" title="INICIO">INICIO</a></br>
+		<h2>Tim Berners Lee</h2>
+		<iframe height="600px" width="50%" src="https://es.wikipedia.org/wiki/Tim_Berners-Lee" align="right"></iframe>
+		<p>Londres, Reino Unido</p></br>
+		<p>8 de Junio de 1995</p>
+		<img src="https://i.blogs.es/3ef43a/tim-berners-lee/1366_2000.jpg" height="20%" width="20%"/></br></br>
+		<a href="file:///D:/Mike%20Uni/3%20Curso/TDW/Ejercicio%20HTML/HTML.html" title="HTML"><img src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/9281136/image/3bd7dc1fbdc52576c993caa69e47891e" width="10%" height="10%"/></a>
+	</body>
+</html>
