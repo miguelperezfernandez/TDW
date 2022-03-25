@@ -1,0 +1,29 @@
+h1{
+    text-align: center; 
+    padding: 0; 
+    color: orange; 
+    border: 2px solid orange; 
+    padding: 25px; 
+    margin-left: 125px; 
+    margin-right: 125px;
+}
+
+.html{
+    color: white; 
+    margin-left: 125px;
+}
+
+
+.text{
+    color: orange; 
+    margin-left: 125px
+}
+
+.iframe{
+    float: right; 
+    margin-right: 125px;
+}
+
+.img{
+    margin-left: 125px;
+}
